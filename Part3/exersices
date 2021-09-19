@@ -1,0 +1,4 @@
+Part 3
+Ex.1
+for x in S: print(ord(x), end=' ')
+sum([ord(x) for x in S])
